@@ -1,0 +1,5 @@
+california_housing_model.pkl filter=lfs diff=lfs merge=lfs -text
+california_housing_preprocessor.pkl filter=lfs diff=lfs merge=lfs -text
+geographical_scatter_plot.png filter=lfs diff=lfs merge=lfs -text
+housing.csv filter=lfs diff=lfs merge=lfs -text
+median_house_value_histogram.png filter=lfs diff=lfs merge=lfs -text
